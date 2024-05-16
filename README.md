@@ -15,7 +15,7 @@
 <a href="https://twitter.com/sliman_mustapha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sliman_mustapha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mustapha-touat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="touat sliman mustapha" height="30" width="40" /></a>
 <a href="https://instagram.com/mustapha_touat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustapha_touat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/helloWorld_1024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="t.s.m.000" height="30" width="40" /></a>
+<a href="https://www.youtube.com/helloWorld_1024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="t.s.m.000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
