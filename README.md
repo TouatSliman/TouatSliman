@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/sliman_mustapha" target="blank"><img src="https://img.shields.io/twitter/follow/sliman_mustapha?logo=twitter&style=for-the-badge" alt="sliman_mustapha" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://touatsliman.github.io/portfolio](https://touatsliman.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [https://slimantouat.online](https://slimantouat.online)
 
-- 📫 How to reach me **touat.mustapha001@gmail.com**
+- 📫 How to reach me **touat_mustapha@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
